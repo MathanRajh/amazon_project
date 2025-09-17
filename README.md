@@ -4,12 +4,13 @@ It connects to a MySQL database (`amazon_sales_analytics`) and provides **30 bus
 Setup Instructions
 
 1. Clone Repository
-git clone 
-cd amazon_project
+git clone https://github.com/MathanRajh/amazon_project.git
+cd amazon_projec
 
 2. Install the dependencies:
 
 pip install -r requirements.txt
+download datasets https://drive.google.com/drive/folders/1ZHB4x8nZHuXmyDlwujWtbOaxiMHWf-3-
 
 
 3. Set up the MySQL database:
